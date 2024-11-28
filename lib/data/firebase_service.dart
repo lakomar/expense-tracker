@@ -1,0 +1,2 @@
+// Firebase service
+class FirebaseService {}
